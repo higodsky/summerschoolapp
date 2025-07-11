@@ -310,7 +310,7 @@ Your {analysis_type} analysis has been completed successfully. The results provi
 
 # Main application
 def main():
-    st.markdown('<div class="main-header">📊 Statistical Analysis Dashboard for SumSET's Lecture by SkyKang</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">📊 Statistical Analysis Dashboard for SumSET Lecture by Sky Kang</div>', unsafe_allow_html=True)
     
     # Sidebar for analysis selection
     st.sidebar.title("Analysis Methods")
